@@ -2,9 +2,8 @@
   Somil Joshi's Portfolio Website<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/somil.jpg" />
 </div>
-<br/>
 
 <center>
 
